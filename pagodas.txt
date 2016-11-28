@@ -1,0 +1,4 @@
+<START:Pagoda> Sule <END> is in town.
+<START:Pagoda> Shwe Dagon <END> is in town.
+<START:Pagoda> Ngar Htet Gyi <END> is in town.
+<START:Pagoda> Chouck Htet Gyi <END> is in town.
