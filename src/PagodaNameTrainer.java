@@ -13,7 +13,7 @@ public class PagodaNameTrainer {
 		//opennlp TokenNameFinderTrainer -model mm-ner-pagodas.bin -lang en -data pagodas.txt
 		try {
 			String[] sentences = {
-			"Shwedagon is in Yangon. Sule is in downtown."};
+			"I went to Sule pagoda last week. It was an amazing experience. Sometimes I goes to Shwedagon too."};
 
 			TokenNameFinderModel model = new TokenNameFinderModel(new File("D:\\apache-opennlp-1.6.0-bin\\apache-opennlp-1.6.0\\bin","mm-ner-pagodas.bin"));
 			Tokenizer tokenizer = SimpleTokenizer.INSTANCE;
