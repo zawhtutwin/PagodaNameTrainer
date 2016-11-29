@@ -4,3 +4,5 @@
    အလိုအေလ်ာက္သိႏိုင္မည္ျဖစ္သည္။
    
  - This will automatically detect the Pagodas in Yangon if they are contained in a text.
+ 
+ OpenNLP POS tagging for Myanmar Text. Sample application.
