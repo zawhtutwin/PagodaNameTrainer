@@ -1,8 +1,7 @@
 **Pagoda Name Finder**
 
- - ရန္ကုန္ရွိ ေစတီဘုရားမ်ား စာပိုဒ္ထဲတြင္ ပါလာပါက
-   အလိုအေလ်ာက္သိႏိုင္မည္ျဖစ္သည္။
-   
- - This will automatically detect the Pagodas in Yangon if they are contained in a text.
+ PagodaNameTrainer.java
+ 		This will automatically detect the Pagodas in Yangon if they are contained in a text.
  
- OpenNLP POS tagging for Myanmar Text. Sample application.
+  MyanmarPosTagger.java 
+ 			OpenNLP POS tagging for Myanmar Text. Sample application.
